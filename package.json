@@ -1,0 +1,26 @@
+{
+  "name": "aether-sharder",
+  "version": "1.0.0",
+  "description": "A Sharder for Aether-Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jxckson-dev",
+  "license": "MIT",
+  "keywords": [
+    "Aether",
+    "Sharder",
+    "Library"
+  ],
+  "dependencies": {
+    "aether-library": "^0.15.4",
+    "cluster": "^0.7.7",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "events": "^3.3.0",
+    "fancy-log": "^1.3.3",
+    "os": "^0.1.2",
+    "util": "^0.12.4"
+  }
+}
